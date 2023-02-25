@@ -1,0 +1,5 @@
+Session.*
+/themes/*
+!/themes/lanube/
+!/themes/index.php
+!/themes/.htaccess
